@@ -1,0 +1,14 @@
+{
+  "name": "webassembly",
+  "version": "1.0.0",
+  "description": "webassembly project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Vincent Moore",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
